@@ -243,7 +243,7 @@ const Footer = () => {
           <div className={footerStyles.designerText}>
             <span>Designed by</span>
             <a
-              href="https://hexagondigitalservices.com/"
+              href="https://sachinnet.netlify.app/"
               target="_blank"
               rel="noopener noreferrer"
               className={footerStyles.designerLink}
