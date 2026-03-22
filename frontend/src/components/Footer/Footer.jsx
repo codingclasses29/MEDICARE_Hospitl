@@ -240,7 +240,7 @@ const Footer = () => {
             <span>© {currentYear} MediCare Healthcare.</span>
           </div>
 
-          <div className={footerStyles.designerText}>
+          <div className={footerStyles.sachin.net}>
             <span>Designed by</span>
             <a
               href="https://sachinnet.netlify.app/"
