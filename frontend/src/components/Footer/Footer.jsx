@@ -248,7 +248,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               className={footerStyles.designerLink}
             >
-              Hexagon Digital Services
+              Sachin.net
             </a>
           </div>
         </div>
